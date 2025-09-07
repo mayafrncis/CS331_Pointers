@@ -7,4 +7,6 @@ printf("Address of var using its pointer: %p\n", p);
 printf("Value of var: %d\n", var);
 *p = 5;
 printf("New Value of var: %d\n", var);
+
+return 0;
 }

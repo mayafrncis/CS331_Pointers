@@ -19,4 +19,6 @@ printf("Printing the values of the array using array name:\n");
 for(int i = 0; i < 5; i++) {
     printf("%d\n", arr[i]);
 }
+
+return 0;
 }
